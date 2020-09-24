@@ -1,0 +1,13 @@
+C:\Users\komyh\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+C:\Users\komyh\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+C:\Users\komyh\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+C:\Users\komyh\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+C:\Users\komyh\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\komyh\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\komyh\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csprojAssemblyReference.cache
+C:\Users\komyh\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+C:\Users\komyh\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+C:\Users\komyh\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\komyh\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\komyh\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\komyh\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache
